@@ -1,7 +1,7 @@
 <!-- Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/odedsq/odedsq/blob/main/banner.png" alt="Yana Herdiana - Full Stack Developer" width="100%">
-</p>
+</p> -->
 
 <h1 align="center">👋 Hi, I'm <span style="color:#007acc;">Yana Herdiana</span></h1>
 <h3 align="center">💼 Full Stack Developer | Laravel & React Specialist | RESTful API Architect</h3>
