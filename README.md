@@ -44,13 +44,13 @@ I’ve been working on various digital transformation projects — from **govern
 
 ### 🚀 Highlight Projects
 
-#### 🏥 **Klinik Management System**
+#### 🏥 **Klinik Management System** (Privat)
 A full-featured management system for multi-clinic environments with **role-based access control** and **RESTful backend** built with Laravel 12 + React.
 
-#### 🏛️ **DesaID - Digital Village Platform**
+#### 🏛️ **DesaID - Digital Village Platform** (Privat)
 Centralized data management and citizen service system for **local government digitalization**.
 
-#### 📊 **Dashboard Pemda Pangandaran**
+#### 📊 **Dashboard Pemda Pangandaran** (Privat)
 Analytical dashboard integrating **BPJS participant data** and **Pemda funding analytics** for executive insights.
 
 ---
