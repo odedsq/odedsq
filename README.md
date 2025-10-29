@@ -67,7 +67,7 @@ Analytical dashboard integrating **BPJS participant data** and **Pemda funding a
 ### 📫 Contact Me
 
 📧 **Email:** [yana.herdiana29@gmail.com](mailto:yana.herdiana@example.com)  
-🌐 **Portfolio:** [https://yanaherdiana.dev](https://yanaherdiana.dev) *(optional)*  
+<!-- 🌐 **Portfolio:** [https://yanaherdiana.dev](https://yanaherdiana.dev) *(optional)*   -->
 💬 **LinkedIn:** [linkedin.com/in/yanaherdiana](https://www.linkedin.com/in/yana-herdiana-55365685/)
 
 ---
