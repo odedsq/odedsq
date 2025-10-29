@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/yanaherdiana/yanaherdiana/blob/main/banner.png" alt="Yana Herdiana - Full Stack Developer" width="100%">
+  <img src="https://github.com/odedsq/odedsq/blob/main/banner.png" alt="Yana Herdiana - Full Stack Developer" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#007acc;">Yana Herdiana</span></h1>
@@ -58,17 +58,17 @@ Analytical dashboard integrating **BPJS participant data** and **Pemda funding a
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yanaherdiana&show_icons=true&theme=default&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanaherdiana&layout=compact&theme=default&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=odedsq&show_icons=true&theme=default&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odedsq&layout=compact&theme=default&hide_border=true" height="160" />
 </p>
 
 ---
 
 ### 📫 Contact Me
 
-📧 **Email:** [yana.herdiana@example.com](mailto:yana.herdiana@example.com)  
+📧 **Email:** [yana.herdiana29@gmail.com](mailto:yana.herdiana@example.com)  
 🌐 **Portfolio:** [https://yanaherdiana.dev](https://yanaherdiana.dev) *(optional)*  
-💬 **LinkedIn:** [linkedin.com/in/yanaherdiana](https://linkedin.com/in/yanaherdiana)
+💬 **LinkedIn:** [linkedin.com/in/yanaherdiana](https://www.linkedin.com/in/yana-herdiana-55365685/)
 
 ---
 
